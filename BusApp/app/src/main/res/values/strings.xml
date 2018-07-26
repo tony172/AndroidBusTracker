@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BusApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bus6">Kila-HNK</string>
+    <string name="bus11">Ravne njive-HNK</string>
+    <string-array name="bus_array">
+        <item>Prikaži sve</item>
+        <item>6 Kila-HNK</item>
+        <item>11 Ravne njive-HNK</item>
+    </string-array>
+</resources>

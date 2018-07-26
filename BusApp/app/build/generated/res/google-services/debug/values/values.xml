@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">39534785761-p038qflfi6e35mskal2r6qfdcnh79t4m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gpssimulator-718b4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">39534785761</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZwMX2K_vSiInnpY44Zuaq-cP7ff8N5Wk</string>
+    <string name="google_app_id" translatable="false">1:39534785761:android:29661910f1b29f8e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZwMX2K_vSiInnpY44Zuaq-cP7ff8N5Wk</string>
+    <string name="google_storage_bucket" translatable="false">gpssimulator-718b4.appspot.com</string>
+    <string name="project_id" translatable="false">gpssimulator-718b4</string>
+</resources>
