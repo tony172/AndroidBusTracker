@@ -6,11 +6,9 @@
     <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
         <img src="img1.jpg">
     </div>
-
     <div class="" style="max-width: 100%;max-height: 100%;display: inline-block;">
         <img src="img2.jpg">
     </div>
-
     <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
         <img src="img3.jpg">
     </div>
